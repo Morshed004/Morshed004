@@ -1,33 +1,41 @@
-# Hi 👋 I'm Golam Morshed
+<h1 align="center">Hi 👋, I'm Golam Morshed</h1>
+<h3 align="center">Full Stack Developer • Scalable Web Apps • Fast Learner ⚡</h3>
 
-🚀 Full Stack Developer focused on building scalable web applications  
-⚡ Fast learner, always exploring better ways to build and optimize  
-📍 Bangladesh  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=2D9BF0&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Node.js+%7C+Next.js+%7C+TypeScript;Always+Learning+Something+New" />
+</p>
 
+## 🚀 About Me
 
-## 🧑‍💻 About Me
+<img align="right" width="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-- 🔭 Currently learning: **How to scale web applications**
-- 🧠 Working with modern full-stack tools and architectures
-- ⚡ Fun fact: I learn things *really* fast
+- 🔭 Currently learning **how to scale web applications**
+- 🧠 Focused on **modern full-stack architecture**
+- ⚙️ Working with **APIs, Auth systems, and performance**
+- ⚡ I learn things *really fast*
 
+<br clear="right"/>
 
+##
 
-## 🛠️ Tech Stack
+<div align="center">
 
-**Languages**  
-![My Skills](https://skill-icons-v2.vercel.app/api/icons?i=typescript,javascript)
+### 💻 Languages
+<img src="https://skill-icons-v2.vercel.app/api/icons?i=typescript,javascript" />
 
-**Frontend**  
-![My Skills](https://skill-icons-v2.vercel.app/api/icons?i=react,nextjs,tailwindcss)
+### 🎨 Frontend
+<img src="https://skill-icons-v2.vercel.app/api/icons?i=react,nextjs,tailwindcss" />
 
-**Backend**  
-![My Skills](https://skill-icons-v2.vercel.app/api/icons?i=nodejs,expressjs,bun,hono,elysia)
+### ⚙️ Backend
+<img src="https://skill-icons-v2.vercel.app/api/icons?i=nodejs,expressjs,bun,hono,elysia" />
 
-**Database & Tools**  
-![My Skills](https://skill-icons-v2.vercel.app/api/icons?i=prisma,redis,supabase)
+### 🗄️ Database & Tools
+<img src="https://skill-icons-v2.vercel.app/api/icons?i=prisma,redis,supabase" />
 
-## 📊 GitHub Stats
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Morshed004&layout=compact&theme=tokyonight)
+#
 
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morshed004&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
