@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋 I'm Golam Morshed
 
-<!--
-**Morshed004/Morshed004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer focused on building scalable web applications  
+⚡ Fast learner, always exploring better ways to build and optimize  
+📍 Bangladesh  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+- 🔭 Currently learning: **How to scale web applications**
+- 🧠 Working with modern full-stack tools and architectures
+- ⚡ Fun fact: I learn things *really* fast
+
+
+
+## 🛠️ Tech Stack
+
+**Languages**  
+![My Skills](https://skill-icons-v2.vercel.app/api/icons?i=typescript,javascript)
+
+**Frontend**  
+![My Skills](https://skill-icons-v2.vercel.app/api/icons?i=react,nextjs,tailwindcss)
+
+**Backend**  
+![My Skills](https://skill-icons-v2.vercel.app/api/icons?i=nodejs,expressjs,bun,hono,elysia)
+
+**Database & Tools**  
+![My Skills](https://skill-icons-v2.vercel.app/api/icons?i=prisma,redis,supabase)
+
+## 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Morshed004&layout=compact&theme=tokyonight)
+
