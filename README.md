@@ -5,13 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=2D9BF0&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Node.js+%7C+Next.js+%7C+TypeScript;Always+Learning+Something+New" />
 </p>
 
-## 🚀 About Me
-
-🔭 Learning to build **scalable web applications**  
-🧠 Focused on **modern full-stack systems**  
-⚙️ Working with **APIs, auth & performance**  
-⚡ Fast learner
-
 ##
 
 <div align="center">
