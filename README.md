@@ -7,14 +7,10 @@
 
 ## 🚀 About Me
 
-<img align="right" width="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
-- 🔭 Currently learning **how to scale web applications**
-- 🧠 Focused on **modern full-stack architecture**
-- ⚙️ Working with **APIs, Auth systems, and performance**
-- ⚡ I learn things *really fast*
-
-<br clear="right"/>
+🔭 Learning to build **scalable web applications**  
+🧠 Focused on **modern full-stack systems**  
+⚙️ Working with **APIs, auth & performance**  
+⚡ Fast learner
 
 ##
 
