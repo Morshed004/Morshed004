@@ -23,8 +23,3 @@
 
 </div>
 
-#
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morshed004&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
